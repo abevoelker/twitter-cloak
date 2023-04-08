@@ -1,0 +1,8 @@
+name = "twitterbot-cloak"
+main = "src/index.js"
+compatibility_date = "2023-04-08"
+usage_model = "bundled"
+env = { }
+
+[triggers]
+crons = [ ]
